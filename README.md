@@ -7,17 +7,17 @@ RS Lang is an app for learning foreign words that includes an electronic textboo
 ## Description
 
 The App was created in a team of 5 people as part of the RSScool's cours
-# my PRs on front:
+### my PRs on front:
 1. [Main page](https://github.com/Rrroman/rslang/pull/33)
 2. [Statistic Redux actions](https://github.com/Rrroman/rslang/pull/26) with mentor comments
 3. [Quiz page](https://github.com/Rrroman/rslang/pull/10) with mentor comments
 4. [Redux start config](https://github.com/Rrroman/rslang/pull/1/files)
 
-# my PRs on back:
+### my PRs on back:
 1. [add statistic](https://github.com/Gaziz666/react-rslang-be/pull/2/files)
 2. [questions folder](https://github.com/Gaziz666/react-rslang-be/tree/develop/src/resources/questions) link to folder
 
-# back-end repository
+### back-end repository
 [back-end repo](https://github.com/Gaziz666/react-rslang-be)
 
 ## Steck
