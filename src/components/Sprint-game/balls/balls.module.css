@@ -1,9 +1,0 @@
-.balls__wrapper{
-    display: flex;
-    flex-direction: row;
-    max-width: 500px;
-    justify-content: center;
-    align-items: center;
-    list-style-type: none;
-    margin: 0 auto;
-}
